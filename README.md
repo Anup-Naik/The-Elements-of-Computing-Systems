@@ -12,7 +12,9 @@
  <p>Implementing Half Adder, Full Adder, Adder, Incrementer and ALU Using Basic Gates from P1.</p>
 
 ---
-<h2 style='text-align=center'>➖➖➖🚩🚩🚩➖➖➖</h2>
+
+<p align=center>➖➖➖🚩🚩🚩➖➖➖</p>
+
 ---
 
 ## ⚓ Software Land ⚓
