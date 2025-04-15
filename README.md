@@ -1,4 +1,4 @@
-# 🚀🚀🚀 The Elements of Computing Systems 🚀🚀🚀
+# <h1 align=center>🚀🚀🚀 The Elements of Computing Systems 🚀🚀🚀</h1>
 
 ---
 
@@ -14,10 +14,6 @@
 
  ### Memory - P3
  <p>Register and RAM Using DFF(Data Flip-Flop)</p>
-
----
-
-<p align=center>➖➖➖🚩🚩🚩➖➖➖</p>
 
 ---
 
