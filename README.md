@@ -15,6 +15,9 @@
  ### Memory - P3
  <p>Register and RAM Using DFF(Data Flip-Flop)</p>
 
+ ### Machine Language - P4
+ <p>Writing some programs using the Hack assembly language, translate them into binary code using a supplied assembler,and test the resulting binary code by executing it.</p>
+
 ---
 
 ## ⚓ Software Land ⚓
