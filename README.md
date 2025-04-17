@@ -2,7 +2,7 @@
 
 ---
 
-🔗[Online IDE](https://nand2tetris.github.io/web-ide/chip/)🔗
+🔗[<p style='color:pink;'>Online IDE</p>](https://nand2tetris.github.io/web-ide/chip/)🔗
 
 ## ⚓ Hardware Land ⚓
 
